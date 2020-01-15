@@ -1,0 +1,33 @@
+@media(min-width: 768px) and (min-width: 991px)
+
+h1{
+
+	text-align: center;
+
+}
+
+h4
+{
+	color:dark black;
+	font-family:sans-serif;
+	border:2px solid black;
+	background-color: violet;
+	text-align: center;
+	font-weight: bold;
+	font-variant-caps: all-petite-caps;
+	
+
+
+}
+div
+{
+ background-color:grey;
+}
+
+p{
+
+	font-family: cursive;
+	
+	color:dark black; 
+     
+}
